@@ -1,0 +1,9 @@
+/* Example */
+h1, h2 { color: #2b6cb0; }
+.note { background: #fff3cd; padding: 8px; }
+#hero { background: #e6fffa; }
+nav a { text-decoration: none; }
+
+body { font-family: Arial, sans-serif; }
+p { line-height: 1.5; }
+.box { padding: 12px; margin: 12px; border: 1px solid #ccc; border-radius: 6px; }

@@ -1,0 +1,34 @@
+/* This is a CSS comment */
+
+body {
+    font-family: Arial;
+    color: #333;
+}
+
+/* Center the main title */
+h1 {
+    text-align: center;
+}
+
+/* Note class */
+.note {
+    background-color: lightyellow;
+    padding: 10px;
+}
+
+/* Simple box */
+.box {
+
+    border: 3px solid rgba(195, 20, 20, 0.5);
+    padding: 15px;
+    border-radius: 10px;
+    color: rgb(204, 127, 255);
+    font-size: large;
+} 
+
+/* Change list bullets to squares */
+ul {
+    list-style-type: square;
+    color:blueviolet;
+
+}
